@@ -1,0 +1,78 @@
+#svetafor-karobkasi {
+        width: 100px;
+        height: 300px;
+        background-color: black;
+}
+#qizil{
+    border-radius: 50px;
+    width: 100px;
+    height: 33.3%;
+    background-color: red;
+}
+#sariq{
+    border-radius: 50px;
+    width: 100px;
+    height: 33.3%;
+    background-color: yellow;
+}
+#yashil{
+    border-radius: 50px;
+    width: 100px;
+    height: 33.3%;
+    background-color: green;
+}
+#qizil-stop{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 5px solid black;
+    font-size: 200%;
+    
+}
+#sariq-wait{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90px;
+    height: 60px;
+    background-color: yellow;
+    border: 5px solid black;
+    font-size: 200%;
+}
+#yawil-go{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 40px;
+    background-color: green;
+    border: 5px solid black;
+    font-size: 200%;
+}
+
+#u {
+    display: flex;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: chocolate;
+}
+#m{
+    justify-content: center;
+    align-items: center;
+    height:  60px;
+   display: flex;
+   background-color: sienna
+   
+}
+
+
+
+
+
+
